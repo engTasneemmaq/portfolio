@@ -429,3 +429,22 @@
 		left: 43%;
 	}
 }
+
+
+
+/* Fifth section */
+
+.col-md-6 order-md-2 {
+	float:left;
+	width: 45%;
+	padding: 40px;
+	padding-left:70px;
+	padding-right: 70px;
+	padding-bottom:60px;
+	height:450px;
+	margin:30px;
+	margin-right:30px;
+	margin-bottom: 40px;
+	
+  }
+
